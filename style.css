@@ -1,0 +1,36 @@
+body {
+  background-color: lightblue;
+}
+
+.class-header,
+.class-ingredients,
+.class-making {
+  background-color: blue;
+  text-align: center;
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+
+.image_1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 675px;
+  height: 438px;
+  border: solid black;
+  box-shadow: 5px 5px 10px black;
+}
+
+p {
+  text-align: center;
+}
+/* h1,
+h2 {
+  background-color: rgb(110, 110, 207);
+  text-align: center;
+  text-decoration: underline;
+} */
